@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "f.com - تطبيق المحادثة والتواصل الفوري",
+  "short_name": "f.com",
+  "description": "تطبيق f.com للدردشة المباشرة، التسجيلات الصوتية، مكالمات الفيديو والصوت، مشاركة الوسائط والحالات.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1320",
+  "theme_color": "#0284c7",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
